@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819781033236",
+    "project_id": "geartocare-4a15c",
+    "storage_bucket": "geartocare-4a15c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819781033236:android:f7d49cb7130f3337fdb601",
+        "android_client_info": {
+          "package_name": "com.example.g2c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819781033236-8pkj0akhl0k7t5thf4svaiqamfgv4ko6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVaoAvZYCB9VUGkUSEmH1PvFdjX5L0zLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819781033236-8pkj0akhl0k7t5thf4svaiqamfgv4ko6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
